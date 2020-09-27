@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 38EC-4D0C
+
+ Directory of C:\Users\mohan\Desktop\GitProj
+
+09/27/2020  10:41 AM    <DIR>          .
+09/27/2020  10:41 AM    <DIR>          ..
+09/27/2020  10:41 AM                 0 testjm1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  419,376,631,808 bytes free
